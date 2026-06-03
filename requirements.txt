@@ -1,1 +1,1 @@
-mssql-python>=1.1.0
+mssql-python==1.8.0
